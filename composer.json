@@ -1,0 +1,11 @@
+{
+    "name": "hp/design-pattern",
+    "autoload": {
+        "psr-4": {
+            "DesignPattern\\": "creational"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9.5.10"
+    }
+}
